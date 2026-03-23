@@ -2,7 +2,7 @@
 
 # Hi there, I'm Keerthan Ugrani 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%26+Computer+Science+Student;ML+%7C+LLMs+%7C+Data+Analytics+Engineer;Building+intelligent+data+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Masters+in+Data+%26+Computer+Science+Student;ML+%7C+LLMs+%7C+Data+Analytics+Engineer;Building+intelligent+data+pipelines)](https://git.io/typing-svg)
 
 </div>
 
