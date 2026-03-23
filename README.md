@@ -10,7 +10,7 @@
 
 ## About Me
 
-A results-driven 📊 Data & ML Engineer currently pursuing a **Master's in Data and Computer Science** at Universität Heidelberg. I specialize in building adaptive data analytics pipelines, deploying ML-driven inference services, and designing scalable ETL architectures — with hands-on experience at **Daimler Truck AG** and **Fraunhofer IPA**.
+A results-driven 📊 Data & ML Engineer currently pursuing a **Master's in Data and Computer Science** at Universität Heidelberg. I specialize in building adaptive data analytics pipelines, deploying ML-driven inference services, and designing scalable ETL architectures, with hands-on experience at **Daimler Truck AG** and **Fraunhofer IPA**.
 
 Passionate about applying machine learning and LLMs to solve real-world industrial problems, from battery health monitoring to medical data retrieval.
 
