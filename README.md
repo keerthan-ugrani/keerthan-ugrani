@@ -30,6 +30,11 @@ Passionate about applying machine learning and LLMs to solve real-world industri
 **M.Sc. Data and Computer Science** — Universität Heidelberg *(Oct 2022 – Present)*
 > Major: Algorithmic Machine Learning and Data Science · GPA: 2.2
 
+**B.E. Computer Science and Engineering** — KLE Technological University *(June 2016 – June 2020)*
+> First Class with Distinction; CGPA: 8.04/10.
+> Relevant coursework: Data Structures and Algorithms, Problem Solving with C++, Software Engineering, Distributed and Cloud Computing, Computer Networks, Big Data and Analytics.
+> Bachelor Thesis (Robert Bosch India): Implemented a particle filter-based Monte Carlo localization algorithm for real-time autonomous vehicle positioning and orientation using sensor fusion data.
+> Publication: Localization of self-driving car using particle filter algorithm.
 ---
 
 ## 🛠️ Skills
