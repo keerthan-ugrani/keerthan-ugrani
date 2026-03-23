@@ -95,18 +95,6 @@ Implementation and comparison of neural network architectures including sequence
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Keerthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthan-ugrani&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-ugrani&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Connect with Me
 
 <div align="left">
@@ -120,5 +108,5 @@ Implementation and comparison of neural network architectures including sequence
 ---
 
 <div align="center">
-  <i>📍 Neuburg an der Donau, Germany &nbsp;|&nbsp; 🕐 UTC +01:00</i>
+  <i>📍 Stuttgart, Germany &nbsp;|&nbsp; 🕐 UTC +01:00</i>
 </div>
